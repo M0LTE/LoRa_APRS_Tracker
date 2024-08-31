@@ -17,7 +17,25 @@
 				"minDeltaBeacon": 20,
 				"turnMinDeg": 12,
 				"turnSlope": 60
-			}			
+			}
+		},{
+			"callsign": "M0LTE-7",
+			"gpsEcoMode": false,
+			"symbol": "/",
+			"overlay": ">",
+			"micE": "",
+			"comment": "LoRa APRS",
+			"smartBeacon": {
+				"active": true,
+				"slowRate": 120,
+				"slowSpeed": 3,
+				"fastRate": 60,
+				"fastSpeed": 15,
+				"minTxDist": 50,
+				"minDeltaBeacon": 20,
+				"turnMinDeg": 12,
+				"turnSlope": 60
+			}
 		}
 	],
 	"display": {
